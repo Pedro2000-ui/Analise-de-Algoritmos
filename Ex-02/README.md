@@ -1,4 +1,4 @@
-# Sudoku Solver em C (Backtracking)
+# Sudoku em C (Backtracking)
 
 Este projeto implementa um **resolvedor de Sudoku 9x9** usando a técnica de **backtracking** em linguagem C. Dado um tabuleiro parcialmente preenchido, o algoritmo preenche os espaços vazios de forma a satisfazer todas as regras do Sudoku, e **para na primeira solução encontrada**.
 
