@@ -18,7 +18,7 @@ Este repositório contém exercícios desenvolvidos durante a disciplina de **An
 - [**Exercício 12**](./Ex-12/main.c): [Algoritmo que resolve o problema da mochila fracionária usando algoritmo recursivo, top-down e bottom-up]
 - [**Exercício 13**](./Ex-13/README.md): [Algoritmo que resolve o problema de multiplicação de matrizes usando algoritmo recursivo, top-down e bottom-up]
 - [**Exercício 14**](./Ex-14/README.md): [Algoritmo de Subsequencia Comum Máxima]
-- [**Exercício Grasfos Ordenação Topológica**](./Grafos/Ordenacao_Topologica/README.md): [Grafos - Ordenação topológica]
+- [**Exercício Grafos Ordenação Topológica**](./Grafos/Ordenacao_Topologica/README.md): [Grafos - Ordenação topológica]
 - [**Exercício Grafos Bipartidos**](./Grafos/Bipartidos/README.md): [Grafos - Bipartidos]
 - [**Exercício Grafos Componentes Fortemente Conexa**](./Grafos/Componentes_Fortemente_Conexa/README.md): [Grafos - Componentes Fortemente Conexa]
 - [**Exercício Grafos Eulerianos**](./Grafos/Eulerianos/README.md): [Grafos - Eulerianos]
