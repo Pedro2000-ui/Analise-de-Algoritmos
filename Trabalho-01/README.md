@@ -1,9 +1,10 @@
 # 📘 Relatório - Atividade de Programação Dinâmica
-Aluno: Pedro Henrique Oliveira Brito 
+
+Aluno: Pedro Henrique Oliveira Brito <br>
 Matrícula: 1142256480
 
 # Link e Nome do Problema
-Nome: Planets Cycles
+Nome: Planets Cycles <br>
 Link: https://cses.fi/problemset/task/1751
 
 # Análise do Problema
@@ -96,7 +97,7 @@ Se de 4 até encontrar 2 são 2 saltos,
 Então de 2 (que vai pra 4) até repetir são 1 (até 4) + 2 (de 4 em diante) = 3
 ```
 
-➡️ f(2) = 1 + f(4)
+➡️ f(2) = 1 + f(4) <br>
 ➡️ Esse é o reaproveitamento do subproblema f(4)
 
 # Justificativa de Programação Dinâmica
