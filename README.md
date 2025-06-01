@@ -22,3 +22,5 @@ Este repositório contém exercícios desenvolvidos durante a disciplina de **An
 - [**Exercício Grafos Bipartidos**](./Grafos/Bipartidos/README.md): [Grafos - Bipartidos]
 - [**Exercício Grafos Componentes Fortemente Conexa**](./Grafos/Componentes_Fortemente_Conexa/README.md): [Grafos - Componentes Fortemente Conexa]
 - [**Exercício Grafos Eulerianos**](./Grafos/Eulerianos/README.md): [Grafos - Eulerianos]
+<br><br>
+- [**Trabalho 01**](./Trabalho-01/README.md): [Trabalho 1 - Análise de Ciclo ao visitar planetas / Programação Dinâmica]
